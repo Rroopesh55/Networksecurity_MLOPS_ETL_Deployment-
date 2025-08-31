@@ -1,0 +1,3 @@
+[2025-08-30 23:24:34,548] 29 root - INFO - CSV file read successfully from Network_Data/phisingData.csv
+[2025-08-30 23:24:34,839] 32 root - INFO - CSV file converted to JSON format successfully
+[2025-08-30 23:24:51,474] 47 root - INFO - Data inserted successfully into the MongoDB database: AI_RROOPESH, collection: NetworkData
