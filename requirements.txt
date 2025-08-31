@@ -1,7 +1,10 @@
 python-dotenv
 pandas
 numpy
-pymango
+pymongo
 scikit-learn
 matplotlib
 seaborn
+certifi
+
+##-e .
